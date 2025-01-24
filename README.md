@@ -41,7 +41,7 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jagruti-acharya-868940211/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jagrutiacharya/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:jagrutiacharya098@gmail.com)  
 
 ---
